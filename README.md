@@ -26,6 +26,11 @@ The pricing adapts based on demand indicators like occupancy, queue length, traf
 ```mermaid
 graph TD
     A[CSV Data Input] --> B[Preprocessing with Pandas]
+## 📘 View the Notebook
+
+> If GitHub fails to render the notebook correctly, you can view it on NBViewer here:  
+👉 [Click to view notebook in NBViewer](https://nbviewer.org/url/github.com/your-username/your-repo/raw/main/pricing_model.ipynb)
+
     B --> C[Pathway Streaming Engine]
     C --> D[30-min Tumbling Window]
     D --> E[Demand Calculation]
