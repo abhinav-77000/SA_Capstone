@@ -32,3 +32,9 @@ graph TD
     E --> F[Price Computation]
     F --> G[Bokeh Plot]
     G --> H[Panel Web App]
+
+## 📘 View the Notebook
+
+> If GitHub fails to render the notebook correctly, you can view it on NBViewer here:  
+👉 [Click to view notebook in NBViewer](https://nbviewer.org/url/github.com/your-username/your-repo/raw/main/pricing_model.ipynb)
+
