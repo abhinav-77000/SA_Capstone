@@ -2,7 +2,7 @@
 
 If GitHub fails to render the notebook properly, you can view it via NBViewer:
 
-👉 [Click to view notebook in NBViewer](https://nbviewer.org/github/abhinav-77000/SA_Capstone/blob/main/SA_CAPSTONE%20%281%29.ipynb)
+👉 [Click to view notebook in NBViewer](https://nbviewer.org/github/abhinav-77000/SA_Capstone/blob/main/SA_CAPSTONE.ipynb)
 
 # 🚗 Smart Parking Dynamic Pricing System (Pathway + Bokeh)
 
